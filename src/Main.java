@@ -12,7 +12,7 @@ class Main {
             System.out.println(sum / arr.length);
         }
         catch (NumberFormatException e){
-            System.out.println("Плохоле число");
+            System.out.println("Плохое число");
         }
     }
 
